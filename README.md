@@ -4,35 +4,45 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C9FF&center=true&vCenter=true&width=640&lines=%F0%9F%94%90+Cyber+Security+Student+%40+COMSATS+Islamabad;Aspiring+Ethical+Hacker;Information+Security+%7C+Network+Security+%7C+AI+Security;Posting+Daily+Cyber+Security+Tips+on+LinkedIn)](https://github.com/qamariqbalchalti)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamar-iqbal-chalti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:qicofficialyt@gmail.com)
+[![YouTube — Animated Empire Docs](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@AnimatedEmpireDocs)
+[![YouTube — Bedtime Bloom Stories](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@Bedtimebloomstories)
+![Profile Views](https://komarev.com/ghpvc/?username=qamariqbalchalti&color=00c9ff&style=flat-square&label=Views)
+
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
-## 👨‍💻 About Me
+### 👋 About Me
+
+**Cyber Security student teaching the internet to stay safe — one strong habit at a time.**
 
 I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad**, from **Gilgit-Baltistan, Pakistan** 🇵🇰. I'm training to become an **ethical hacker** — learning how attacks work so I can help people and organisations stop them.
 
-- 🎓 Studying **Cyber Security**, with a focus on **Information Security, Network Security and AI Security**
-- 🛡️ Building small, practical security tools in **Python** as I learn — see my projects below
-- 📰 Sharing **one practical cyber security tip every day** on [LinkedIn](https://www.linkedin.com/in/qamar-iqbal-chalti/) — how ordinary people can keep their accounts, money and data safe
-- 🌱 Currently deepening my skills in **network defence, ethical hacking methodology and secure system design**
-- 🎯 Goal: grow into a security professional who makes the digital world safer for everyday users
+- 🎓 Studying **Cyber Security**, focused on **Information Security, Network Security and AI Security**
+- 🛡️ Building small, practical security tools in **Python** as I learn — see my featured projects below
+- 📰 Sharing **one practical cyber security tip every day** on [LinkedIn](https://www.linkedin.com/in/qamar-iqbal-chalti/)
+- 🌱 Deepening my skills in **network defence, ethical hacking methodology and secure system design**
+- 🎯 Goal: become a security professional who makes the digital world safer for everyday users
 
 > *"Attackers rarely break in anymore — they simply log in. My mission is to close that door, one strong habit at a time."*
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
-## 🛠️ Skills & Tools
+### 🛡️ My Security Focus
 
-**Security**
+<div align="center">
 
-![Cyber Security](https://img.shields.io/badge/Cyber_Security-0a192f?style=for-the-badge&logo=hackthebox&logoColor=00c9ff)
-![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-112240?style=for-the-badge&logo=kali-linux&logoColor=00c9ff)
-![Network Security](https://img.shields.io/badge/Network_Security-0a192f?style=for-the-badge&logo=wireshark&logoColor=00c9ff)
-![Information Security](https://img.shields.io/badge/Information_Security-112240?style=for-the-badge&logo=shield&logoColor=00c9ff)
-![AI Security](https://img.shields.io/badge/AI_Security-0a192f?style=for-the-badge&logo=openai&logoColor=00c9ff)
+![Cyber Security](https://img.shields.io/badge/CYBER_SECURITY-0a192f?style=for-the-badge&logo=hackthebox&logoColor=00c9ff)
+![Ethical Hacking](https://img.shields.io/badge/ETHICAL_HACKING-112240?style=for-the-badge&logo=kalilinux&logoColor=00c9ff)
+![Network Security](https://img.shields.io/badge/NETWORK_SECURITY-0a192f?style=for-the-badge&logo=wireshark&logoColor=00c9ff)
+![Information Security](https://img.shields.io/badge/INFORMATION_SECURITY-112240?style=for-the-badge&logo=owasp&logoColor=00c9ff)
+![AI Security](https://img.shields.io/badge/AI_SECURITY-0a192f?style=for-the-badge&logo=openai&logoColor=00c9ff)
 
-**Languages & Development**
+</div>
+
+### 💻 Languages & Tools
 
 <div align="center">
 
@@ -42,7 +52,7 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
 | Project | What it does | Tech |
 |---|---|---|
@@ -53,22 +63,20 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qamariqbalchalti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00c9ff&icon_color=00c9ff"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=qamariqbalchalti&theme=tokyonight&hide_border=true&background=0a192f&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qamariqbalchalti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00c9ff&icon_color=00c9ff&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=qamariqbalchalti&theme=tokyonight&hide_border=true&background=0a192f&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff"/>
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamariqbalchalti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00c9ff"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=qamariqbalchalti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/qamariqbalchalti)
 
 </div>
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/iso-band.svg"/>
 
-## 📚 Right Now
+### 📚 Right Now
 
 - 📖 **Studying:** Cyber Security degree coursework at COMSATS University Islamabad
 - 🐍 **Building:** small Python security tools to turn theory into practice
@@ -76,24 +84,18 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
-## 🤝 Connect With Me
+### 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qamar-iqbal-chalti/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qamariqbalchalti2004@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qicofficialyt@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/qamariqbalchalti)
 
-**My YouTube channels**
+**🎬 My YouTube channels**
 
 [![Animated Empire Docs](https://img.shields.io/badge/Animated_Empire_Docs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AnimatedEmpireDocs)
 [![Bedtime Bloom Stories](https://img.shields.io/badge/Bedtime_Bloom_Stories-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Bedtimebloomstories)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=qamariqbalchalti&color=00c9ff&style=flat-square&label=Profile+Views)
 
 *Thanks for stopping by — stay safe out there.* 🔐
 
