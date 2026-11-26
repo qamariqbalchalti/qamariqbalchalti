@@ -14,6 +14,8 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
+# Qamar Iqbal — Cyber Security Student & Aspiring Ethical Hacker
+
 ### 👋 About Me
 
 **Cyber Security student teaching the internet to stay safe — one strong habit at a time.**
