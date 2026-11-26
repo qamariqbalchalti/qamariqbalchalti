@@ -1,10 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:00c9ff&height=190&section=header&text=QAMAR%20IQBAL&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Aspiring%20Ethical%20Hacker&descSize=16&descAlignY=58&animation=fadeIn"/>
-
 <div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/banner-3d.svg" alt="Qamar Iqbal — Cyber Security Student, Aspiring Ethical Hacker"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C9FF&center=true&vCenter=true&width=640&lines=%F0%9F%94%90+Cyber+Security+Student+%40+COMSATS+Islamabad;Aspiring+Ethical+Hacker;Information+Security+%7C+Network+Security+%7C+AI+Security;Posting+Daily+Cyber+Security+Tips+on+LinkedIn)](https://github.com/qamariqbalchalti)
 
 </div>
+
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
 ## 👨‍💻 About Me
 
@@ -18,6 +20,8 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 > *"Attackers rarely break in anymore — they simply log in. My mission is to close that door, one strong habit at a time."*
 
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
+
 ## 🛠️ Skills & Tools
 
 **Security**
@@ -30,12 +34,13 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 **Languages & Development**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,linux,bash,git,github,mongodb,vscode&theme=dark&perline=8)](https://github.com/qamariqbalchalti)
+
+</div>
+
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
 ## 🚀 Featured Projects
 
@@ -46,6 +51,8 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 | 🎬 [**Movie Management System**](https://github.com/qamariqbalchalti/Movie-Management-System) | CineStar movie booking system — browsing, ticket booking and admin/customer management with a database back end | Java · MongoDB |
 | 🚌 [**Tour Management System — QR Tours**](https://github.com/qamariqbalchalti/Tour-Managment-System-QR-Tours-) | Tour package and booking management with a Swing GUI, file-based persistence and full OOP design | Java |
 
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -55,13 +62,19 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamariqbalchalti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00c9ff"/>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=qamariqbalchalti&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)](https://github.com/qamariqbalchalti)
+
 </div>
+
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/iso-band.svg"/>
 
 ## 📚 Right Now
 
 - 📖 **Studying:** Cyber Security degree coursework at COMSATS University Islamabad
 - 🐍 **Building:** small Python security tools to turn theory into practice
 - ✍️ **Writing:** a daily cyber security tip series on LinkedIn — join me there and secure one habit a day
+
+<img width="100%" src="https://raw.githubusercontent.com/qamariqbalchalti/qamariqbalchalti/main/assets/divider.svg"/>
 
 ## 🤝 Connect With Me
 
