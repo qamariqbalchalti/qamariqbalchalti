@@ -67,10 +67,10 @@ I'm **Qamar Iqbal**, a **Cyber Security student at COMSATS University Islamabad*
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=qamariqbalchalti&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00c9ff&icon_color=00c9ff&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://streak-stats.demolab.com?user=qamariqbalchalti&theme=tokyonight&hide_border=true&background=0a192f&ring=00c9ff&fire=00c9ff&currStreakLabel=00c9ff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=qamariqbalchalti&show_icons=true&hide_border=true&bg_color=0a192f&title_color=00c9ff&icon_color=00c9ff&text_color=e6f1ff&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://streak-stats.demolab.com?user=qamariqbalchalti&hide_border=true&background=0a192f&stroke=112240&ring=00c9ff&fire=00c9ff&currStreakNum=e6f1ff&currStreakLabel=00c9ff&sideNums=e6f1ff&sideLabels=c9d1d9&dates=8b9bb4"/>
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamariqbalchalti&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&title_color=00c9ff"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qamariqbalchalti&layout=compact&hide_border=true&bg_color=0a192f&title_color=00c9ff&text_color=e6f1ff"/>
 
 </div>
 
