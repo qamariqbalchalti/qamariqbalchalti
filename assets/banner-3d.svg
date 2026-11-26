@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#060d1a"/>
+      <stop offset="0.5" stop-color="#0a192f"/>
+      <stop offset="1" stop-color="#112240"/>
+    </linearGradient>
+    <linearGradient id="face" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8fbff"/>
+      <stop offset="0.45" stop-color="#9be8ff"/>
+      <stop offset="0.55" stop-color="#38c6f4"/>
+      <stop offset="1" stop-color="#0e7fd6"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1d4e79"/>
+      <stop offset="1" stop-color="#0a2540"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#00c9ff" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#00c9ff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <ellipse cx="600" cy="150" rx="520" ry="150" fill="url(#glow)"/>
+  <g stroke="#00c9ff" stroke-opacity="0.13" fill="none" stroke-width="2">
+    <polyline points="0,60 180,60 240,120 460,120"/>
+    <polyline points="1200,50 1010,50 950,110 760,110"/>
+    <polyline points="0,270 150,270 210,215 420,215"/>
+    <polyline points="1200,275 1040,275 985,220 790,220"/>
+    <circle cx="460" cy="120" r="5" fill="#00c9ff"/>
+    <circle cx="760" cy="110" r="5" fill="#00c9ff"/>
+    <circle cx="420" cy="215" r="5" fill="#00c9ff"/>
+    <circle cx="790" cy="220" r="5" fill="#00c9ff"/>
+  </g>
+  <!-- shield emblem -->
+  <g transform="translate(600,86)">
+    <path d="M0,-52 L46,-34 L46,8 C46,40 26,58 0,70 C-26,58 -46,40 -46,8 L-46,-34 Z" fill="url(#shield)" stroke="#00c9ff" stroke-width="3"/>
+    <path d="M0,-40 L35,-26 L35,8 C35,33 20,47 0,57 C-20,47 -35,33 -35,8 L-35,-26 Z" fill="none" stroke="#38c6f4" stroke-opacity="0.5" stroke-width="1.5"/>
+    <rect x="-13" y="-6" width="26" height="22" rx="4" fill="#00c9ff"/>
+    <path d="M-8,-6 L-8,-14 a8,8 0 0 1 16,0 L8,-6" fill="none" stroke="#00c9ff" stroke-width="4"/>
+    <circle cx="0" cy="3" r="3.4" fill="#0a192f"/>
+    <rect x="-1.6" y="5" width="3.2" height="6" fill="#0a192f"/>
+  </g>
+  <!-- 3D extruded name -->
+  <g font-family="'Arial Black', Arial, sans-serif" font-weight="900" font-size="86" text-anchor="middle" letter-spacing="2">
+    <text x="608" y="248" fill="#03101f">QAMAR IQBAL</text>
+    <text x="606" y="246" fill="#052a4a">QAMAR IQBAL</text>
+    <text x="604" y="244" fill="#083d68">QAMAR IQBAL</text>
+    <text x="602" y="242" fill="#0b5a94">QAMAR IQBAL</text>
+    <text x="600" y="240" fill="url(#face)">QAMAR IQBAL</text>
+  </g>
+  <text x="600" y="288" font-family="Arial, sans-serif" font-size="19" letter-spacing="6" fill="#7fe7ff" text-anchor="middle">CYBER SECURITY STUDENT &#8226; ASPIRING ETHICAL HACKER</text>
+</svg>
